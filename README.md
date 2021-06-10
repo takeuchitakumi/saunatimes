@@ -103,12 +103,12 @@
 
 
 # ローカルでの動作方法
-$ git clone https://github.com/aocattleya/hoge.git
-$ cd hoge
-$ bundle install
-$ rails db:create
-$ rails db:migrate
-$ rails s
+$ git clone https://github.com/aocattleya/hoge.git  
+$ cd hoge  
+$ bundle install  
+$ rails db:create  
+$ rails db:migrate  
+$ rails s  
 👉 http://localhost:3000
 
 
